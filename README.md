@@ -1,6 +1,7 @@
 # synthcity-atom-syntax theme
 
-A syntax highlighting palette for happiness.
+synthcity syntax highlighting for Atom.
+
 http://phest.github.io/synthcity
 
-![screenshot](http://phest.github.io/synthcity/objc.png)
+![](https://raw.githubusercontent.com/phest/synthcity-atom-syntax/master/preview.png)

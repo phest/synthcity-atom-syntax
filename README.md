@@ -1,6 +1,6 @@
 # synthcity-atom-syntax theme
 
-synthcity syntax highlighting for Atom.
+Synth City syntax highlighting for Atom.
 
 http://phest.github.io/synthcity
 

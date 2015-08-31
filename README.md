@@ -6,4 +6,6 @@ http://phest.github.io/synthcity
 
 https://atom.io/themes/synthcity-atom-syntax
 
-![](https://raw.githubusercontent.com/phest/synthcity-atom-syntax/master/preview.png)
+<img src="https://raw.githubusercontent.com/phest/synthcity-atom-syntax/master/card.png" alt="card" style="width: 384px;"/>
+
+<img src="https://raw.githubusercontent.com/phest/synthcity-atom-syntax/master/preview.png" alt="preview" style="width: 384px;"/>
